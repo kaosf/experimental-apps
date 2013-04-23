@@ -9,3 +9,8 @@
 
 * app: http://ka-backbonejs.herokuapp.com
 * Source Code: https://github.com/kaosf/heroku-backbonejs
+
+## Haml and Markdown
+
+* app: http://ka-haml-md.herokuapp.com
+* Source Code: https://github.com/kaosf/haml-md
