@@ -2,6 +2,8 @@
 
 http://experiment.kaosfield.net
 
+![alt http://experiment.kaosfield.net](qrcode.gif)
+
 or
 
 http://ka-exp-apps.herokuapp.com
