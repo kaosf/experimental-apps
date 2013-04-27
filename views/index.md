@@ -19,3 +19,9 @@
 
 * app: http://ka-haml-md.herokuapp.com
 * Source Code: https://github.com/kaosf/haml-md
+
+# Other services links
+
+* [Google](https://google.com)
+* [Github](https://github.com)
+* [Bitbucket](https://bitbucket.org)
