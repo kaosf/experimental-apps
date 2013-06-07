@@ -27,6 +27,7 @@
 
 # Other services links
 
+* [kaosfield.net](http://kaosfield.net)
 * [Google](https://google.com)
 * [Github](https://github.com)
 * [Bitbucket](https://bitbucket.org)
