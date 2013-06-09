@@ -23,7 +23,7 @@
 ## Ruby 2.0.0 and Rails 4.0.0.rc1 Sample
 
 * app: http://ka-rails4-sample.herokuapp.com/items
-* Source: https://github.com/kaosf/ruby-2.0.0-p0-rails-4.0.0.rc1-sample
+* Source: https://github.com/kaosf/ruby-2.0.0-rails-4.0.0.rc1-sample
 
 # Other services links
 
