@@ -25,6 +25,11 @@
 * app: http://ka-rails4-sample.herokuapp.com/items
 * Source: https://github.com/kaosf/ruby-2.0.0-rails-4.0.0.rc1-sample
 
+## Node.js Express Markdown
+
+* app: http://ka-nodejs-express-markdown.herokuapp.com
+* Source: https://github.com/kaosf/nodejs-express-markdown
+
 # Other services links
 
 * [kaosfield.net](http://kaosfield.net)
