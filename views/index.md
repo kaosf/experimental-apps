@@ -17,6 +17,8 @@
 
 ## Haml and Markdown
 
+Ruby + Rack + Sinatra + Haml + Markdown
+
 * app: http://ka-haml-md.herokuapp.com
 * Source Code: https://github.com/kaosf/haml-md
 
@@ -26,6 +28,8 @@
 * Source: https://github.com/kaosf/ruby-2.0.0-rails-4.0.0.rc1-sample
 
 ## Node.js Express Markdown
+
+JavaScript + Node.js + Express + Jade + Markdown
 
 * app: http://ka-nodejs-express-markdown.herokuapp.com
 * Source: https://github.com/kaosf/nodejs-express-markdown
