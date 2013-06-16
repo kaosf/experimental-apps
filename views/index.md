@@ -2,36 +2,36 @@
 
 ## AngularJS YouTube Search
 
-* app: http://ka-angularjs-youtube-search.herokuapp.com
+* App: http://ka-angularjs-youtube-search.herokuapp.com
 * Source Code: https://github.com/kaosf/heroku-angularjs-youtube-search
 
 ## AngularJS TODO
 
-* app: http://ka-angularjs-todo.herokuapp.com
+* App: http://ka-angularjs-todo.herokuapp.com
 * Source Code: https://github.com/kaosf/heroku-angularjs-todo
 
 ## Backbone.js TODO
 
-* app: http://ka-backbonejs.herokuapp.com
+* App: http://ka-backbonejs.herokuapp.com
 * Source Code: https://github.com/kaosf/heroku-backbonejs
 
 ## Haml and Markdown
 
 Ruby + Rack + Sinatra + Haml + Markdown
 
-* app: http://ka-haml-md.herokuapp.com
+* App: http://ka-haml-md.herokuapp.com
 * Source Code: https://github.com/kaosf/haml-md
 
 ## Ruby 2.0.0 and Rails 4.0.0.rc1 Sample
 
-* app: http://ka-rails4-sample.herokuapp.com/items
+* App: http://ka-rails4-sample.herokuapp.com/items
 * Source Code: https://github.com/kaosf/ruby-2.0.0-rails-4.0.0.rc1-sample
 
 ## Node.js Express Markdown
 
 JavaScript + Node.js + Express + Jade + Markdown
 
-* app: http://ka-nodejs-express-markdown.herokuapp.com
+* App: http://ka-nodejs-express-markdown.herokuapp.com
 * Source Code: https://github.com/kaosf/nodejs-express-markdown
 
 # Other services links
