@@ -25,14 +25,14 @@ Ruby + Rack + Sinatra + Haml + Markdown
 ## Ruby 2.0.0 and Rails 4.0.0.rc1 Sample
 
 * app: http://ka-rails4-sample.herokuapp.com/items
-* Source: https://github.com/kaosf/ruby-2.0.0-rails-4.0.0.rc1-sample
+* Source Code: https://github.com/kaosf/ruby-2.0.0-rails-4.0.0.rc1-sample
 
 ## Node.js Express Markdown
 
 JavaScript + Node.js + Express + Jade + Markdown
 
 * app: http://ka-nodejs-express-markdown.herokuapp.com
-* Source: https://github.com/kaosf/nodejs-express-markdown
+* Source Code: https://github.com/kaosf/nodejs-express-markdown
 
 # Other services links
 
