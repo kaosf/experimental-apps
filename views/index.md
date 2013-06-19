@@ -38,5 +38,5 @@ JavaScript + Node.js + Express + Jade + Markdown
 
 * [kaosfield.net](http://kaosfield.net)
 * [Google](https://google.com)
-* [Github](https://github.com/kaosf)
+* [GitHub](https://github.com/kaosf)
 * [Bitbucket](https://bitbucket.org/kaosf)
