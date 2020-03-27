@@ -1,15 +1,5 @@
 # Experimental Apps
 
-## AngularJS YouTube Search
-
-* App: http://ka-angularjs-youtube-search.herokuapp.com
-* Source Code: https://github.com/kaosf/heroku-angularjs-youtube-search
-
-## AngularJS TODO
-
-* App: http://ka-angularjs-todo.herokuapp.com
-* Source Code: https://github.com/kaosf/heroku-angularjs-todo
-
 ## Backbone.js TODO
 
 * App: http://ka-backbonejs.herokuapp.com
