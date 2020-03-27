@@ -1,10 +1,5 @@
 # Experimental Apps
 
-## Backbone.js TODO
-
-* App: http://ka-backbonejs.herokuapp.com
-* Source Code: https://github.com/kaosf/heroku-backbonejs
-
 ## Haml and Markdown
 
 Ruby + Rack + Sinatra + Haml + Markdown
