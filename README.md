@@ -8,9 +8,16 @@
 
 ```sh
 # run at only the first time
-heroku create ka-exp-apps
+heroku apps:create ka-exp-apps
 ```
 
+Set `HEROKU_API_TOKEN` [here](https://github.com/kaosf/experimental-apps/settings/secrets/actions).
+
 ```sh
-git push heroku master
+# Deployment by GitHub Actions
+git push origin main
+
+# or
+# Manual deployment
+git push heroku main
 ```
