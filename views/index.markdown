@@ -1,5 +1,13 @@
 # Experimental Apps
 
+## EnvVarHeroku
+
+`ENV["VAR"]` and `config/credentials.yml.enc` on Ruby on Rails on Heroku
+
+- App: https://kaosf-env-var.herokuapp.com/
+- Source Code: https://github.com/kaosf/env-var-heroku
+- Guide: https://qiita.com/ka_/items/a19f65628bdc213fc8f5
+
 ## Haml and Markdown
 
 Ruby + Rack + Sinatra + Haml + Markdown
